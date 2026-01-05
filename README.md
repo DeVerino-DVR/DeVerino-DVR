@@ -22,9 +22,10 @@ I am a professional developer with 10 years of experience in Lua scripting for F
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DeVerino-DVR&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeVerino-DVR&layout=compact&theme=dark)
+<a href="https://github.com/DeVerino-DVR">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DeVerino-DVR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DeVerino-DVR&layout=compact&langs_count=8&theme=dark"/>
+</a>
 
 ---
 
