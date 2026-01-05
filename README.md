@@ -1,4 +1,4 @@
-# DeVerino (DVR) - Developer Profile
+# (DVR) - Developer Profile
 
 Professional Lua developer specializing in FiveM & RedM scripting
 
