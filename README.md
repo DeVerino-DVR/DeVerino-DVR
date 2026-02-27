@@ -2,7 +2,7 @@
 
 Professional Lua developer specializing in FiveM & RedM scripting
 
-📍 **France** | 🎮 **Twitch Partner** | 💜 **[twitch.tv/dvr__](https://www.twitch.tv/dvr__)**
+📍 **France** | 🎮 **Twitch Partner** | 💜 **[twitch.tv/dvr__](https://www.twitch.tv/dvr_)**
 
 ---
 
